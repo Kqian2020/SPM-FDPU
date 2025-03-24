@@ -10,6 +10,6 @@ volume = {174},
 pages = {113014},  
 year = {2025},  
 issn = {1568-4946},  
-doi = {https://doi.org/10.1016/j.asoc.2025.113014},  
-url = {https://www.sciencedirect.com/science/article/pii/S1568494625003254}  
+doi = {10.1016/j.asoc.2025.113014},  
+url = {https://doi.org/10.1016/j.asoc.2025.113014}  
 }
